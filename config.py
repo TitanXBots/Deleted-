@@ -28,7 +28,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "5356695781"))
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://TITANBOT:TITANBOT@cluster0.wcey8.mongodb.net/?retryWrites=true&w=majority")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://TITANXBOTS:TITANXBOTS@cluster0.vzglbom.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
 
 #Time in seconds for message Auto delete, put 0 to never delete
